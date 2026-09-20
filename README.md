@@ -1,8 +1,8 @@
 ## 👥 Anggota Kelompok
 
-* **Anggota A:** Fitur Input Data Panen (`feature-input`)
-* **Anggota B:** Fitur Cetak Laporan Struk (`feature-laporan`)
-* **Anggota C:** Fitur Perhitungan Diskon & Total (`feature-diskon`)
+* **Tivani:** Fitur Input Data Panen (`feature-input`)
+* **Malah:** Fitur Cetak Laporan Struk (`feature-laporan`)
+* **Dimas:** Fitur Perhitungan Diskon & Total (`feature-diskon`)
 
 ---
 
