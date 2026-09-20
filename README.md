@@ -1,1 +1,0 @@
-# Sistem-panen-kelompok-1-K1
